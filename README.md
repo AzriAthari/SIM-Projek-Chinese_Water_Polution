@@ -9,3 +9,8 @@ Tugas mata kuliah **Sistem Informasi Manajemen (SIM) - B1**.
 
 ---
 
+## 🌐 Demo Web
+Link demo dashboard dapat diakses melalui:  
+➡️ [https://kelompok8-b1-waterpollution.streamlit.app/)
+
+---
