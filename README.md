@@ -4,8 +4,8 @@ Tugas mata kuliah **Sistem Informasi Manajemen (SIM) - B1**.
 
 ## 👥 Kelompok 8 Anggota
 - **Mhd Azri Athari - 231712066**
-- **Audrey Christine Angelina - 231712069**
-- **Doni Brizky Turnip - 231712064**
+- **Audrey Christine Angelina - 231712067**
+- **Doni Brizky Turnip - 231712062**
 
 ---
 
