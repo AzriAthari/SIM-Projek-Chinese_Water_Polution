@@ -16,4 +16,4 @@ Link demo dashboard dapat diakses melalui:
 ---
 ## 🌐Link Collab
 Link collab dapat diakses melalui:  
-➡️ (https://colab.research.google.com/drive/1Ptp2ah2ufwSu5wGgcukKHco6yYYrk6mA?usp=sharing )
+➡️ (https://colab.research.google.com/drive/1Ptp2ah2ufwSu5wGgcukKHco6yYYrk6mA?usp=sharing ) untuk filenya dapat dilihat di folder data
